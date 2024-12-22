@@ -92,4 +92,5 @@ wasabi==0.10.1
 watchdog==2.1.9
 zipp==3.8.1
 pyodbc
+nltk.download('stopwords')
 nltk==3.7
