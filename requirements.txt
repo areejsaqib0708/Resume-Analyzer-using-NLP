@@ -92,3 +92,4 @@ watchdog==2.1.9
 zipp==3.8.1
 pyodbc
 nltk==3.7
+nltk.downloader stopwords
